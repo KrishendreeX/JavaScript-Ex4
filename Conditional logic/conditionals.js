@@ -6,7 +6,7 @@ const PassingGrade = 60;
 
 
 if (Score >= PassingGrade) {
-    console.log("You passed, well done!");
+    console.log("You passed!");
 }
 // else if is used to check if a condition is true
 
@@ -16,7 +16,7 @@ else {
 // else is used to check if a condition doesn't meet the if statement
 
 if (Score === 100) {
-    console.log("Congratulations! You got a perfect score!");
+    console.log("Congratulations!");
 } 
 // if is used to check if a condition is true
 // using === checks if the value is equal to the value
